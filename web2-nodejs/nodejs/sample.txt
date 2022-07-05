@@ -1,0 +1,5 @@
+Introducing English Semantics is a comprehensive and accessible introduction
+to semantics, the study of meaning.
+Focusing on the English Language, Charles W.Kreidler presents the
+basic principles of semantics. He explores how languages organize and express
+meanings through words, parts of words and sentences.
